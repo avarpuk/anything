@@ -6,3 +6,5 @@ my first commit
 hi
 
 thats it
+
+now look how it works
