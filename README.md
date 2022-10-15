@@ -8,3 +8,5 @@ hi
 thats it
 
 now look how it works
+
+trying to use git bash
