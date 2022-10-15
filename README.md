@@ -16,6 +16,3 @@ trying to use git bash
 popitka nomer 2
 
 hi gays
-
-
-okey, bro, lets test!
