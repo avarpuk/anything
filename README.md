@@ -3,6 +3,8 @@
 
 ### okey bro
 
+### okey bro 2 maybe?
+
 #### my first commit
 
 ##### hi
@@ -16,4 +18,3 @@ trying to use git bash
 popitka nomer 2
 
 hi gays
-bravo its working!
